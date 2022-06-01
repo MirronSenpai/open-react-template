@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Wir Heizen ihnen Richtig ein!',
+    paragraph: 'Unsere Smarte Home Lösung für Ihren Heizkessel lässt es ihnen richtig warm ums Herz werden.'
   };
 
   return (
